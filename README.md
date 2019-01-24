@@ -1,3 +1,4 @@
 # alex
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/alex/master)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/alex/master?filepath=Alex.ipynb)
